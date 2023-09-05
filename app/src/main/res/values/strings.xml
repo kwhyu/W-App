@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">W-App</string>
+
+    <string name="waipu_name">Nama Waipu</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">About Me</string>
+    <string name="setting">Setting</string>
+    <string name="namaaku">I Putu Eka Wahyu</string>
+    <string name="emailaku">ekawahyu9311@gmail.com</string>
+    <string name="githubaku">https://github.com/kwhyu</string>
+
+
+    <string-array name="data_name">
+        <item>Raiden Mei</item>
+        <item>Elysia</item>
+        <item>Himeko</item>
+        <item>Fu Hua</item>
+        <item>Durandal</item>
+        <item>Rita Rossweisse</item>
+        <item>Cecilia Schariac</item>
+        <item>Kiana Kaslana</item>
+        <item>Bronya Zaychik</item>
+        <item>Eden</item>
+    </string-array>
+
+    <string-array name="data_aka">
+        <item>Herrscher ofThunder, Herrscher of Origin</item>
+        <item>Herrscher of Human, Herrscher of Origin</item>
+        <item>Herrscher of Fire, Commander Himeko</item>
+        <item>Phoenix, The Celestial/ The Empyrean</item>
+        <item>Bianka Ataegina, Kiana Kaslana (Real Name)</item>
+        <item>Schicksal Maid</item>
+        <item>Strongest Valkyrie of Schicksal</item>
+        <item>K-423, Herrscher of the End, Herrscher of Finality</item>
+        <item>Herrscher of Reason, Herrscher of Truth</item>
+        <item>The Angel of Strings, The Voice of Heaven</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Mei has long dark purple hair and indigo eyes. In her Herrscher Form, her eyes gain hot pink pupils, has dark red horns fading to bright red on her head and her hair becomes a lot longer and parts in the middle into two.In A Post-Honkai Odyssey, Mei has long hair and bright purple to light blue eyes, and wears a white and black suit with a white, blue, purple and pink feather on it, blue-purple gloves, translucent tights and black shoes.</item>
+        <item>Elysia has light pink hair that is tied into a low ponytail. Her hair curls at the tips and extends far past her shoulders. On the right side of her head, she has a large hair clip with a light blue gem on it: the same color as her eyes. Her pupils are pink like her hair. She also has small elf ears as a side effect of the procedure used to turn her into a MANTIS.</item>
+        <item>Himeko is a strong leader and reliable at work, for the most part, but is a severe alcoholic who would even drink while teaching. Brave and sometimes reckless in battle, she never backs down when the lives of others are at stake. She is hardworking, as she was able become a member of the Assault Squad after grueling training despite having zero prior combat experience.</item>
+        <item>Fu Hua looks like a 17 year old girl of average height, contrary to her actual age. She has bluish-purplish hair, pale skin, and blue eyes. When in her MANTIS form, her eyes turn red and her hair becomes a mix of white and red.</item>
+        <item>Durandal has a fair complexion, light blue eyes, and strawberry blond hair that fades into a light pink at the ends. She often wears her hair down, but she occasionally has it in a high ponytail.\nDurandal, aka Bianka Ataegina, is Schicksal’s most powerful S-rank Valkyrie. She’s also the heir of the Abyss Flower and the one who leads the Immortal Blades.</item>
+        <item>Rita has honey blonde hair that goes to about her neck in the back, with the front being slightly longer. With reddish pink eyes, and a smile that never leaves her face, she is sickeningly sweet in appearance. Her left eye is covered, but she seems to see just fine. She usually dons a maid outfit with pink accents that match her eyes.</item>
+        <item>Cecilia Schariac is a deuteragonist of Second Eruption. She was the most powerful S-rank Valkyrie of Schicksal after Kallen Kaslana and Reanna Brigantia and before Durandal. She was the heir of the Black Abyss White Flower after Eleanor Schariac and Reanna and before Durandal.</item>
+        <item>Kiana Kaslana is one of the main protagonists of Honkai Impact 3rd along with Raiden Mei and Bronya Zaychik. She is the adoptive daughter of Siegfried Kaslana, alongside being a vessel for the 2nd Herrscher — Herrscher of the Void. After the events of Chapter 25, she awakens as the Herrscher of Flamescion. Ultimately after the events of Chapter 35, her will was approved by the Cocoon of Finality, granting her its power and allowing her to awaken as the one and only true Herrscher of the End.</item>
+        <item>Bronya Zaychik (full name Bronya Alexeievna Zaychik) is a protagonist of the series along with Kiana Kaslana and Raiden Mei. She is a member of the St. Freya team and a former Valkyrie of Schicksal Squad V. She is also Welt Yang successor as the Herrscher of Reason.</item>
+        <item>Eden is another member of The Thirteen Flame-Chasers. She is ranked fourth amongst the thirteen, and was once "the brightest star" of the Previous Era. Her codename is "Gold."</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://static.zerochan.net/Raiden.Mei.full.3891017.png</item>
+        <item>https://static.zerochan.net/Elysia.full.3720241.jpg</item>
+        <item>https://static.zerochan.net/Murata.Himeko.full.3963410.png</item>
+        <item>https://static.zerochan.net/Fu.Hua.full.2858226.jpg</item>
+        <item>https://static.zerochan.net/Durandal.full.3897181.jpg</item>
+        <item>https://static.zerochan.net/Rita.Rossweisse.full.2840074.png</item>
+        <item>https://static.wikia.nocookie.net/hoducks/images/a/ac/Cecilia_Schariac.jpg/revision/latest?cb=20201022215437</item>
+        <item>https://static.zerochan.net/Kiana.Kaslana.full.3878841.png</item>
+        <item>https://static.zerochan.net/Bronya.Zaychik.full.3522610.jpg</item>
+        <item>https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/0/0f/Eden_%28Profile%29.jpg/revision/latest?cb=20221013012556</item>
+
+    </string-array>
+</resources>
